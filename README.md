@@ -1,4 +1,4 @@
-# about me
-hanjinkim[at]protonmail[dot]com
+[![Star History Chart](https://api.star-history.com/svg?repos=irhdab/FTP-honeypot,irhdab/pysocketchat,irhdab/realesrgan-gui,irhdab/kitepad&type=date&legend=top-left)](https://www.star-history.com/#irhdab/FTP-honeypot&irhdab/pysocketchat&irhdab/realesrgan-gui&irhdab/kitepad&type=date&legend=top-left)
 
-blog: 1eld.bearblog.dev
+
+Yeah I'm a poor student from Korea
