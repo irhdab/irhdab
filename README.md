@@ -1,3 +1,4 @@
+![stats](https://github-readme-stats.vercel.app/api?username=irhdab&show_icons=true&theme=dark)
 [![Star History Chart](https://api.star-history.com/svg?repos=irhdab/DFdetect,irhdab/kitepad,irhdab/TransLSTM-Predictor,irhdab/FTP-honeypot,irhdab/pysocketchat&type=date&legend=top-left)](https://www.star-history.com/#irhdab/DFdetect&irhdab/kitepad&irhdab/TransLSTM-Predictor&irhdab/FTP-honeypot&irhdab/pysocketchat&type=date&legend=top-left)
 
 # Hi I'm Han
