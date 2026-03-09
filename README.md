@@ -1,9 +1,8 @@
-![stats](https://github-readme-stats.vercel.app/api?username=irhdab&show_icons=true&theme=dark)
-[![Star History Chart](https://api.star-history.com/svg?repos=irhdab/DFdetect,irhdab/kitepad,irhdab/TransLSTM-Predictor,irhdab/FTP-honeypot,irhdab/pysocketchat&type=date&legend=top-left)](https://www.star-history.com/#irhdab/DFdetect&irhdab/kitepad&irhdab/TransLSTM-Predictor&irhdab/FTP-honeypot&irhdab/pysocketchat&type=date&legend=top-left)
-
 # Hi I'm Han
 I'm a student at Seoul Global High School, a selective public boarding school in Seoul specializing in international studies, social studies, and foreign languages.
 I'm also deeply into social problem solving, especially issues that can be solved through technology access.
+
+[Github stats](https://github.com/irhdab/irhdab/blob/0025097f89721da79b07c56c494131ad7f1bd612/stats.md)
 
 ## Blog
 I write about my projects and academic things here →
