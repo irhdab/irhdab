@@ -1,0 +1,3 @@
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irhdab&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=irhdab&theme=dark)](https://git.io/streak-stats)
+[![Star History Chart](https://api.star-history.com/svg?repos=irhdab/DFdetect,irhdab/kitepad,irhdab/TransLSTM-Predictor,irhdab/FTP-honeypot,irhdab/pysocketchat&type=date&legend=top-left)](https://www.star-history.com/#irhdab/DFdetect&irhdab/kitepad&irhdab/TransLSTM-Predictor&irhdab/FTP-honeypot&irhdab/pysocketchat&type=date&legend=top-left)
