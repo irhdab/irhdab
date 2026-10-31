@@ -1,4 +1,4 @@
-# Hi, I’m Han.
+# Han.
 
 I’m a student at Seoul Global High School, a selective public boarding school in Seoul where I’ve spent my time studying international affairs, social studies, and foreign languages.
 
@@ -7,7 +7,7 @@ I’m especially interested in social problem solving through technology access;
 ## Ongoing projects
 Right now, I’m working on:
 - [kitepad](https://github.com/irhdab/kitepad), an alternative to pastebin, built to make sharing text cleaner and more flexible.
-- A PWA and chatapp bot for our school cafeteria menu, designed to make daily food information easier to access. And also connecting it to student governance.
+- A chatapp bot for schools in ROK(Official support: Seoul Global High, Hongsung High / Unofficial support: Deoksan High/Middle(Ongoing discussion), Naepo Middle, Sapgyeo High); used for cafeteria menu, designed to make daily food information easier to access. And also connecting it to student governance.
 
 ## Blog
 I also write about my projects and academic work on my blog:
